@@ -33,7 +33,7 @@ Clientes atentidos:
 - Banco BTG
 - Me Poupe
 
-DevOps, CI/CD, NodeJS, Vue, React, Redux, SCRUM, Docker, AWS, Azure, GCP, Lambda, Serverless, Spotify API, PHP, Wordpress, React Native, .Net
+*DevOps, CI/CD, NodeJS, Vue, React, Redux, SCRUM, Docker, AWS, Azure, GCP, Lambda, Serverless, Spotify API, PHP, Wordpress, React Native, .Net*
 
 ### Agência Foster - Tech Lead Back-end
 
@@ -54,7 +54,7 @@ Clientes atentidos:
 - Vale
 - Hospital Oswaldo Cruz
 
-DevOps, Google Cloud API, PHP, Node, React, Redux, Wordpress, Redis, AWS, Docker, HTML, CSS, Javascript, ElasticSearch
+*DevOps, Google Cloud API, PHP, Node, React, Redux, Wordpress, Redis, AWS, Docker, HTML, CSS, Javascript, ElasticSearch*
 
 ---
 
